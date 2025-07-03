@@ -48,5 +48,4 @@ As electric vehicles continue to reshape the automotive industry, understanding 
 
 ---
 
-## 📂 Project Structure
 
